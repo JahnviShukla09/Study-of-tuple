@@ -1,5 +1,5 @@
 # 📌 OPERATIONS ON TUPLE (Python)
-Nanme- Jahnvi Shukla <br/>
+Name- Jahnvi Shukla <br/>
 PRN- 25070123055 <br/>
 Branch- EnTC A3 <br/>
 
